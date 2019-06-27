@@ -1,2 +1,1 @@
-# data-analyst
-Content for Udacity's Data Analyst curriculum
+# Data-Analyst Nanodegree material
